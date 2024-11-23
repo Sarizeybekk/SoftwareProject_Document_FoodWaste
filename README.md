@@ -20,10 +20,3 @@ The Food Waste Management System is designed to connect food donors, such as res
 - **Notification System**: Automated alerts to notify recipients of new donations.
 - **Admin Dashboard**: Administrative interface for monitoring activities, managing users, and generating reports.
 
-## 🚀 Getting Started
-
-To explore the documentation:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Sarizeybekk/SoftwareProject_Document_FoodWaste.git
